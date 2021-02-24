@@ -1,4 +1,4 @@
-## Security > NHN Compliance > 릴리스 노트
+## Security > NHN Compliance > Release Note
 
-### 2021. 02. 23.
-* NHN Compliance 서비스 출시
+### February 23, 2021
+* NHN Compliance service release
