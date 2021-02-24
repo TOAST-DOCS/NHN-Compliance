@@ -1,13 +1,14 @@
-## Security > NHN Compliance > 개요
+## Security > NHN Compliance > Overview
 
-정보보호 인증과 컴플라이언스에 효과적으로 대응할 수 있도록 보안 인증서와 상세 가이드를 제공하는 서비스입니다.
+This is a service that provides security certificate and detailed guide to enable effective response to information protection authentication and compliance.
 
-## 주요 기능
+## Key Features
 
-* NHN이 보유한 보안 인증서를 다운로드 받을 수 있습니다.
-* 보안 정책 분야 별 상세 내용과 대응 방안 가이드를 제공합니다.
-* 요건에 대응하기 위한 클라우드 서비스를 제시합니다.
+* Can download the security certificate held by NHN.
+* Details for each security policy area and response guide are provided.
+* Cloud service is suggested to meet the requirements.
 
-## 서비스 대상
+## Service targets
 
-* 보안 인증과 컴플라이언스에 대해 대응이 필요한 경우
+* If responses are needed for security certificate and compliance
+
