@@ -1,4 +1,4 @@
-## Security > NHN Compliance > 콘솔 사용 가이드
+## Security > Security Compliance > 콘솔 사용 가이드
 
 ## 정보보호 인증서
 
