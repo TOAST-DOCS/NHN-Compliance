@@ -1,4 +1,4 @@
-## Security > NHN Compliance > 개요
+## Security > Security Compliance > 개요
 
 정보보호 인증과 컴플라이언스에 효과적으로 대응할 수 있도록 보안 인증서와 상세 가이드를 제공하는 서비스입니다.
 
