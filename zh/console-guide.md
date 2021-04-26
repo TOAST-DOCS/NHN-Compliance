@@ -1,4 +1,4 @@
-## Security > NHN Compliance > User Guide for Console
+## Security > Security Compliance > User Guide for Console
 
 ## Information protection certificate
 
