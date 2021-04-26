@@ -1,4 +1,4 @@
-## Security > NHN Compliance > 概要
+## Security > Security Compliance > 概要
 
 情報保護認証とコンプライアンスに効果的に対応できるように、セキュリティ証明書と詳細ガイドを提供するサービスです。
 
