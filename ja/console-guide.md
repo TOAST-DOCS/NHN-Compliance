@@ -1,4 +1,4 @@
-## Security > NHN Compliance > コンソール使用ガイド
+## Security > Security Compliance > コンソール使用ガイド
 
 ## 情報保護証明書
 
