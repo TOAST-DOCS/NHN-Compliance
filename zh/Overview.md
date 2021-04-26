@@ -1,4 +1,4 @@
-## Security > NHN Compliance > Overview
+## Security > Security Compliance > Overview
 
 This is a service that provides security certificate and detailed guide to enable effective response to information protection authentication and compliance.
 
