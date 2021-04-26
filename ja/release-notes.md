@@ -1,4 +1,4 @@
-## Security > NHN Compliance > リリースノート
+## Security > Security Compliance > リリースノート
 
 ### 2021. 02. 23.
-* NHN Complianceサービスリリース
+* Security Complianceサービスリリース
