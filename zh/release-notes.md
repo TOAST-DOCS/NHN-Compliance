@@ -1,4 +1,4 @@
-## Security > NHN Compliance > Release Note
+## Security > Security Compliance > Release Note
 
 ### February 23, 2021
-* NHN Compliance service release
+* Security Compliance service release
