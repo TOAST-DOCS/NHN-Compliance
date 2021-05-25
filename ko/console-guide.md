@@ -6,7 +6,7 @@ NHN이 보유한 정보보호 인증서를 확인할 수 있으며 다운로드 
 ![NHNCompliance_01_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_01_20210204.png)
 1. 인증서 내역 및 필요한 인증서에 대한 **인증 범위**, **유효 기간**, **설명**을 확인합니다.
 2. 인증서를 **다운로드** 받습니다.  
-
+ 
 
 ## 정보보호 가이드
 
