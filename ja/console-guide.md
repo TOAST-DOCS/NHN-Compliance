@@ -2,7 +2,7 @@
 
 ## 情報保護証明書
 
-NHNが保有する情報保護証明書の確認と、ダウンロードが行えます。
+NHN Cloudが保有する情報保護証明書の確認と、ダウンロードが行えます。
 ![NHNCompliance_01_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_01_20210525.png)
 1. 証明書の内容および必要な証明書の**認証範囲**、**有効期間**、**説明**を確認します。
 2. 証明書を**ダウンロード**します。
