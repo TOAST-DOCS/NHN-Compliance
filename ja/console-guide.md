@@ -1,6 +1,10 @@
-## Security > Security Compliance > コンソール使用ガイド
+<!-- pre-align:aligned sig=2a8564033c2c -->
 
-## 情報保護証明書
+<a id="security-security-compliance-user-guide-for-console"></a>
+## Security > Security Compliance > コンソール使用ガイド { #security-security-compliance-user-guide-for-console }
+
+<a id="information-protection-certificate"></a>
+## 情報保護証明書 { #information-protection-certificate }
 
 NHN Cloudが保有する情報保護証明書の確認と、ダウンロードが行えます。
 ![NHNCompliance_01_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_01_20210525.png)
@@ -8,7 +12,8 @@ NHN Cloudが保有する情報保護証明書の確認と、ダウンロード�
 2. 証明書を**ダウンロード**します。
 
 
-## 情報保護ガイド
+<a id="information-protection-guide"></a>
+## 情報保護ガイド { #information-protection-guide }
 
 情報保護統制項目の詳細ガイドの確認と、ダウンロードが行えます。
 ![NHNCompliance_02_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_02_20210525.png)
