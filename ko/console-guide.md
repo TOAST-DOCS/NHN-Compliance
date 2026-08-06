@@ -1,6 +1,10 @@
-## Security > Security Compliance > 콘솔 사용 가이드
+<!-- pre-align:aligned sig=2a8564033c2c -->
 
-## 정보보호 인증서
+<a id="security-security-compliance-user-guide-for-console"></a>
+## Security > Security Compliance > 콘솔 사용 가이드 { #security-security-compliance-user-guide-for-console }
+
+<a id="information-protection-certificate"></a>
+## 정보보호 인증서 { #information-protection-certificate }
 
 NHN Cloud가 보유한 정보보호 인증서를 확인할 수 있으며 다운로드 받을 수 있습니다.
 ![NHNCompliance_01_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_01_20210525.png)
@@ -8,7 +12,8 @@ NHN Cloud가 보유한 정보보호 인증서를 확인할 수 있으며 다운�
 2. 인증서를 **다운로드** 받습니다.  
  
 
-## 정보보호 가이드
+<a id="information-protection-guide"></a>
+## 정보보호 가이드 { #information-protection-guide }
 
 정보보호 통제항목에 대한 상세 가이드를 확인할 수 있으며 다운로드 받을 수 있습니다.
 ![NHNCompliance_02_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_02_20210525.png)
