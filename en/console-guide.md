@@ -1,6 +1,10 @@
-## Security > Security Compliance > User Guide for Console
+<!-- pre-align:aligned sig=2a8564033c2c -->
 
-## Information protection certificate
+<a id="security-security-compliance-user-guide-for-console"></a>
+## Security > Security Compliance > User Guide for Console { #security-security-compliance-user-guide-for-console }
+
+<a id="information-protection-certificate"></a>
+## Information protection certificate { #information-protection-certificate }
 
 You can view and download the information protection certificate held by NHN Cloud.
 ![NHNCompliance_01_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_01_20210525.png)
@@ -8,7 +12,8 @@ You can view and download the information protection certificate held by NHN Clo
 2. **Download**  the certificate.
 
 
-## Information protection guide
+<a id="information-protection-guide"></a>
+## Information protection guide { #information-protection-guide }
 
 You can view and download the detailed guide of the items controlled for information protection.
 ![NHNCompliance_02_20210204.png](https://static.toastoven.net/prod_serversecuritycheck/NHNCompliance_02_20210525.png)
